@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Paróquia Nossa Senhora de Fátima - Queimados</title>
+  <title>Comunidade Nossa Senhora das Mercês e São Jorge - Queimados</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -27,52 +27,35 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Squadfree - v2.3.0
-  * Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
 
-  <!-- ======= Header ======= -->
+  
   <header id="header" class="fixed-top header-transparent">
     <div class="container d-flex align-items-center">
 
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html"><img src="assets/img/logo.png" width="50" height="50"><span>NS Fátima</span></a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <h1 class="text-light"><a href="index.php"><img src="assets/img/logo.png" width="50" height="50"><span>Mercês e São Jorge</span></a></h1>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.php">início</a></li>
-          <li><a href="#about">Sobre</a></li>
-          <li><a href="#services">Horários</a></li>
-          <li><a href="#portfolio">Secretaria</a></li>
-          <li><a href="#team">Comunidades</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
+          <li><a href="#multimidia">Multimídia</a></li>
+          <li><a href="#reflexoes">Reflexões</a></li>
+          <li><a href="#contato">Contato</a></li>
+          <li class="drop-down"><a href="">A Comunidade</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Drop Down 2</a>
+              <li><a href="historia.php">História</a></li>
+              <li class="drop-down"><a href="#">Padroeiros</a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="merces.php">Nossa Senhora das Mercês</a></li>
+                  <li><a href="saojorge.php">São Jorge</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
             </ul>
           </li>
-          <li><a href="#contact">Contact Us</a></li>
-
         </ul>
       </nav><!-- .nav-menu -->
 

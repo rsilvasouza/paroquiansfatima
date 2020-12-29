@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="/assets/img/favicon.ico" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -36,7 +36,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.php"><img src="assets/img/logo.png" width="50" height="50"><span>Mercês e São Jorge</span></a></h1>
+        <h1 class="text-light"><a href="index.php"><img src="assets/img/logo.png" width="30" height="40"><span> Mercês e São Jorge</span></a></h1>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">

@@ -21,7 +21,7 @@
             <p>
               Acesse os principais canais católicos de Televisão e acompanhe a transmissão de missas, terços, palestras e muito mais!
             </p>
-            <a href="lives.php" class="about-btn">Clique aqui <i class="bx bx-chevron-right"></i></a>
+            <a href="historia.php" class="about-btn">Clique aqui <i class="bx bx-chevron-right"></i></a>
           </div>
         </div>
         <div class="col-xl-7 d-flex align-items-stretch">

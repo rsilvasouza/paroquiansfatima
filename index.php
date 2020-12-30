@@ -38,7 +38,7 @@
                 <a href="https://pt.calameo.com/read/006227768b5507ee509ae" target="_blank">
                   <i class="icofont-newspaper"></i>
                   <h4>Revista Caminhando</h4>
-                  <p>Acesso o Edição mensão da Revista Caminhando</p>
+                  <p>Acesso o Edição mensal da Revista Caminhando</p>
                 </a>
               </div>
 

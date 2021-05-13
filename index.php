@@ -35,7 +35,7 @@
                 </a>
               </div>
               <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                <a href="https://pt.calameo.com/read/006227768b5507ee509ae" target="_blank">
+                <a href="https://pt.calameo.com/read/0062277682e3d29cff03d" target="_blank">
                   <i class="icofont-newspaper"></i>
                   <h4>Revista Caminhando</h4>
                   <p>Acesso o Edição mensal da Revista Caminhando</p>
